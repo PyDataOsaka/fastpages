@@ -39,8 +39,8 @@
 
   
       ,"page1": {
-          "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "title": "PyData Osakaについて",
+          "content": "PyData Osakaは PyDataの大阪のコミュニティです。 . PyData Osakaは不定期でデータ分析に関する情報の交換を目的としたミートアップを行っています。 詳しくは下記をご覧ください。 . Conpass | Twitter | YouTube, pydataosakaで検索 | ブログ(Medium) | . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://pydataosaka.github.io/fastpages/about/",
           "relUrl": "/about/",
           "date": ""
